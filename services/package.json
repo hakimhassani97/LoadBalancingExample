@@ -1,0 +1,29 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "a microservice example app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakimhassani97/LoadBalancingExample.git"
+  },
+  "keywords": [
+    "microservices",
+    "load",
+    "balancing",
+    "haproxy",
+    "express"
+  ],
+  "author": "hakimhassani97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakimhassani97/LoadBalancingExample/issues"
+  },
+  "homepage": "https://github.com/hakimhassani97/LoadBalancingExample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
